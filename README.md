@@ -11,7 +11,7 @@ It also perfectly works with UIScrollViewKeyboardDismissMode.interactive.
 
 ## Requirements
 
-- iOS 8.0+
+- iOS 9.0+
 - Xcode 9.0
 - Swift 4.0 (>= 1.5.0)
 - Swift 3.0 ([1.0.0](https://github.com/Kofktu/KUIKeyboard/tree/1.0.0))
